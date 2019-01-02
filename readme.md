@@ -20,10 +20,10 @@ DB_PASSWORD=
 
 4.  desde consola ejecutar composer update para crear todas las dependencias dentro de la carpeta vendor
 5.  instalar todas las dependencias de node ejecutando npm install
-5.  ejecutar desde consola php artisan migrate --seed para llenar la base de datos
+6.  ejecutar desde consola php artisan migrate --seed para llenar la base de datos
 
 ### Ejecutar proyecto
 
-6. desde consola ejecutar php artisan serve  el proyecto si todo quedo bien instalado se visualizara en http://localhost:8000/ 
+7. desde consola ejecutar php artisan serve  el proyecto si todo quedo bien instalado se visualizara en http://localhost:8000/ 
 
 
